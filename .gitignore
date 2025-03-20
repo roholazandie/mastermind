@@ -185,3 +185,7 @@ cache/
 /data/
 /sc_autoencoders/figures/
 /outputs/
+
+
+*.mp4
+*.lock
